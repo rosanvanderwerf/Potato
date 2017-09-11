@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mr. Potato Head</string>
+
+
+
+    <string name="select">Select Accessoires:</string>
+    <string name="Body">Body</string>
+
+    <string name="Hat">Hat</string>
+
+    <string name="Nose">Nose</string>
+    <string name="Mustache">Mustache</string>
+    <string name="Eyes">Eyes</string>
+    <string name="Mouth">Mouth</string>
+    <string name="Glasses">Glasses</string>
+    <string name="Arms">Arms</string>
+    <string name="Ears">Ears</string>
+    <string name="Brows">Brows</string>
+    <string name="Shoes">Shoes</string>
+</resources>

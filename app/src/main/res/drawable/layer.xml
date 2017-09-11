@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/body" />
+    <item android:drawable="@drawable/hat" />
+    <item android:drawable="@drawable/arms" />
+    <item android:drawable="@drawable/ears" />
+    <item android:drawable="@drawable/eyebrows" />
+    <item android:drawable="@drawable/eyes" />
+    <item android:drawable="@drawable/glasses" />
+
+    <item android:drawable="@drawable/mouth" />
+    <item android:drawable="@drawable/mustache" />
+    <item android:drawable="@drawable/nose" />
+    <item android:drawable="@drawable/shoes" />
+</layer-list>
+
